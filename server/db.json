@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "title": "belajar vue",
+      "status": "on-going",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "belajar vue-router",
+      "status": "on-going"
+    },
+    {
+      "id": 3,
+      "title": "belajar vuex",
+      "status": "on-going"
+    },
+    {
+      "title": "belajar vue",
+      "status": "on-going",
+      "id": 4
+    }
+  ]
+}
